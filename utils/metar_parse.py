@@ -38,4 +38,3 @@ def flight_category(ceil_ft, vis_sm):
     if ceil_ft < 3000 or vis_sm < 5:
         return "MVFR"
     return "VFR"
-``
