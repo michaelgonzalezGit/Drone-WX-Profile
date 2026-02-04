@@ -121,4 +121,3 @@ with tabs[2]:
 
     st.markdown("\n\n".join(summary))
     st.info("AviationWeather.gov asks you to keep API requests limited and notes rate limiting; caching helps. [1](https://www.aviationweather.gov/data/api/)")
-``
